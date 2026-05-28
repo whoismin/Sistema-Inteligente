@@ -1,1 +1,1 @@
-# Detec-o-de-Transa-es
+# Sistema Inteligente de Detecção de Transações Recorrentes com Apriori
